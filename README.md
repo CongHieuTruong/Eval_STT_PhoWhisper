@@ -72,9 +72,6 @@
   - **Độ trễ thấp (~1–1.5 s cho 10 s audio)**, phù hợp cho ứng dụng gần thời gian thực.
 - Hạn chế:
   - Vẫn còn lỗi với **thuật ngữ chuyên ngành** và một số tên riêng.
-- Gợi ý cải thiện:
-  - Bổ sung/cải thiện dữ liệu huấn luyện với **từ vựng chuyên ngành** (ví dụ tài chính, điện lực, blockchain…).
-  - Kết hợp với **từ điển tùy chỉnh** hoặc cơ chế hậu xử lý để sửa các từ mượn tiếng Anh, tên riêng.
 
 ## 5. Tệp kết quả
 - Bảng kết quả chi tiết được lưu trong file `phowhisper_metrics.csv`.
